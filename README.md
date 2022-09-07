@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋  I am LUiS NAVARRO
 
-<!--
-**lunavarro22/lunavarro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love technology :snake:. I work as a Python Developer and occasionally participate in contests at HackerRank.
 
-Here are some ideas to get you started:
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that include HTML, CSS, Javascript and Python.
+- 🌱 I’m currently learning Adobe Photoshop, Adobe Illustrator and contributing to Open Source projects.
+- :pencil2: I Write blogs/gists on GitHub on free days.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/lunavarro22"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/luis-navaro-csumb/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+![alt text](./images/bottom.svg)
