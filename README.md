@@ -1,6 +1,6 @@
 # Hi there! 👋  I am LUiS NAVARRO
 
-I love technology :snake:. I work as a Python Developer and occasionally participate in contests at HackerRank.
+I love technology. I work as a Python Developer and occasionally participate in contests at HackerRank.
 
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that include HTML, CSS, Javascript and Python.
